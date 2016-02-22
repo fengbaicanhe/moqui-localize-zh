@@ -20,5 +20,20 @@ along with this software (see the LICENSE.md file). If not, see
 
     <moqui.basic.LocalizedMessage original="Choose an Application" locale="zh_CN" localized="选择应用"/>
 
+    <moqui.basic.LocalizedMessage original="Username" locale="zh_CN" localized="用户名"/>
+
+    <moqui.basic.LocalizedMessage original="Password" locale="zh_CN" localized="密码"/>
+
+    <moqui.basic.LocalizedMessage original="Tenant ID" locale="zh_CN" localized="租户名"/>
+
+    <moqui.basic.LocalizedMessage original="Sign in" locale="zh_CN" localized="登陆"/>
+
+    <moqui.basic.LocalizedMessage original="Enter your username and password to sign in" locale="zh_CN" localized="输入账号密码登陆"/>
+
+    <moqui.basic.LocalizedMessage original="Login" locale="zh_CN" localized="登陆"/>
+
+    <moqui.basic.LocalizedMessage original="Reset Password" locale="zh_CN" localized="重置密码"/>
+
+    <moqui.basic.LocalizedMessage original="Change Password" locale="zh_CN" localized="修改密码"/>
 
 </entity-facade-xml>

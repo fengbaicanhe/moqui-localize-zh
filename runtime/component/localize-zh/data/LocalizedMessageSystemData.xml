@@ -18,5 +18,70 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="System" locale="zh_CN" localized="系统管理"/>
 
 
+    <!-- Begin Usage part -->
+
+    <moqui.basic.LocalizedMessage original="Usage" locale="zh_CN" localized="使用记录"/>
+
+    <!-- TODO: these twos bellow need translate -->
+    <moqui.basic.LocalizedMessage original="Artifact Hit Summary" locale="zh_CN" localized="Artifact Hit Summary"/>
+    <moqui.basic.LocalizedMessage original="Artifact Hit Bins" locale="zh_CN" localized="Artifact Hit Bins"/>
+
+    <moqui.basic.LocalizedMessage original="Audit Log" locale="zh_CN" localized="检查日志"/>
+
+    <moqui.basic.LocalizedMessage original="Visits" locale="zh_CN" localized="访客记录"/>
+
+    <!-- End Usage part -->
+
+
+    <!-- Begin Server Admin part -->
+
+    <moqui.basic.LocalizedMessage original="Server Admin" locale="zh_CN" localized="服务器管理"/>
+
+    <moqui.basic.LocalizedMessage original="Cache Stats and Mgmt" locale="zh_CN" localized="缓存管理"/>
+
+    <moqui.basic.LocalizedMessage original="Job Scheduler" locale="zh_CN" localized="任务调度"/>
+
+    <moqui.basic.LocalizedMessage original="Print Servers and Jobs" locale="zh_CN" localized="打印服务及打印任务"/>
+
+    <moqui.basic.LocalizedMessage original="Tenant Admin" locale="zh_CN" localized="租户管理"/>
+
+    <!-- End Server Admin part -->
+
+
+    <!-- Begin Security part -->
+
+    <moqui.basic.LocalizedMessage original="Security" locale="zh_CN" localized="安全管理"/>
+
+    <moqui.basic.LocalizedMessage original="Users" locale="zh_CN" localized="用户管理"/>
+
+    <moqui.basic.LocalizedMessage original="User Groups" locale="zh_CN" localized="用户组管理"/>
+
+    <moqui.basic.LocalizedMessage original="Artifact Groups" locale="zh_CN" localized="构件组管理"/>
+
+    <!-- End Security part -->
+
+
+    <!-- Begin Data Admin part -->
+
+    <moqui.basic.LocalizedMessage original="Data Admin" locale="zh_CN" localized="数据管理" />
+
+    <moqui.basic.LocalizedMessage original="Localization" locale="zh_CN" localized="本地化" />
+
+    <moqui.basic.LocalizedMessage original="Data Documents" locale="zh_CN" localized="数据文档" />
+
+    <moqui.basic.LocalizedMessage original="Resource Finder" locale="zh_CN" localized="资源浏览器" />
+
+    <!-- End Data Admin part -->
+
+
+    <!-- Begin Integration Admin part -->
+
+    <moqui.basic.LocalizedMessage original="Integration Admin" locale="zh_CN" localized="集成管理" />
+
+    <moqui.basic.LocalizedMessage original="Entity Data Sync" locale="zh_CN" localized="实体数据同步" />
+
+    <moqui.basic.LocalizedMessage original="System-System Messages" locale="zh_CN" localized="系统到系统 消息" />
+
+    <!-- End Integration Admin part -->
 
 </entity-facade-xml>

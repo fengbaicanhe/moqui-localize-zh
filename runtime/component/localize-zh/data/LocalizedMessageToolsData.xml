@@ -54,6 +54,12 @@ along with this software (see the LICENSE.md file). If not, see
 
     <!-- Begin REST API: Swagger UI part -->
 
+    <moqui.basic.LocalizedMessage original="REST API: Swagger UI" locale="zh_CN" localized="RESTful API"/>
+
+    <!-- TODO: this localize do not work, will solve this problem in future -->
+    <moqui.basic.LocalizedMessage original="Moqui Tools REST API" locale="zh_CN" localized="系统工具 API (${resource.childMethods})"/>
+
+    <moqui.basic.LocalizedMessage original="Entity Master API" locale="zh_CN" localized="实体管理 API"/>
 
     <!-- End REST API: Swagger UI part -->
 
