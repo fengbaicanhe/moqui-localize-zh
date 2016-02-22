@@ -28,7 +28,7 @@ along with this software (see the LICENSE.md file). If not, see
 
     <moqui.basic.LocalizedMessage original="Audit Log" locale="zh_CN" localized="检查日志"/>
 
-    <moqui.basic.LocalizedMessage original="Visits" locale="zh_CN" localized="访客记录"/>
+    <moqui.basic.LocalizedMessage original="Visits" locale="zh_CN" localized="访问记录"/>
 
     <!-- End Usage part -->
 
