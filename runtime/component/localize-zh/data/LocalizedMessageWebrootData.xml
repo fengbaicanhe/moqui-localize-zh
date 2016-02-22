@@ -14,9 +14,11 @@ along with this software (see the LICENSE.md file). If not, see
 -->
 <entity-facade-xml type="seed">
 
-    <!-- Title in apps list -->
-    <moqui.basic.LocalizedMessage original="System" locale="zh_CN" localized="系统管理"/>
+    <moqui.basic.LocalizedMessage original="Application" locale="zh_CN" localized="应用程序"/>
 
+    <moqui.basic.LocalizedMessage original="App List" locale="zh_CN" localized="应用列表"/>
+
+    <moqui.basic.LocalizedMessage original="Choose an Application" locale="zh_CN" localized="选择应用"/>
 
 
 </entity-facade-xml>

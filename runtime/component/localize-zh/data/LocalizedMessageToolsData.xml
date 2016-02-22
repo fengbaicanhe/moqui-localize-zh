@@ -14,5 +14,47 @@ along with this software (see the LICENSE.md file). If not, see
 -->
 <entity-facade-xml type="seed">
 
+    <!-- TODO: 修改默认账号的 localize 为 zh_CN -->
+
+    <!-- Title in apps list -->
+    <moqui.basic.LocalizedMessage original="Tools" locale="zh_CN" localized="系统工具"/>
+
+
+    <!-- Begin General Tools part -->
+
+    <moqui.basic.LocalizedMessage original="General Tools" locale="zh_CN" localized="常用工具"/>
+
+    <moqui.basic.LocalizedMessage original="Auto Screens" locale="zh_CN" localized="动态界面(Screen)"/>
+
+    <moqui.basic.LocalizedMessage original="Artifact Stats" locale="zh_CN" localized="构件状态"/>
+
+    <moqui.basic.LocalizedMessage original="Services" locale="zh_CN" localized="服务管理"/>
+
+    <!-- End General Tools part -->
+
+
+    <!-- Begin Entity Tools part -->
+
+    <moqui.basic.LocalizedMessage original="Entity Tools" locale="zh_CN" localized="数据工具"/>
+
+    <moqui.basic.LocalizedMessage original="Data Import" locale="zh_CN" localized="数据导入"/>
+
+    <moqui.basic.LocalizedMessage original="Data Export" locale="zh_CN" localized="数据导出"/>
+
+    <moqui.basic.LocalizedMessage original="SQL Runner" locale="zh_CN" localized="SQL执行器"/>
+
+    <moqui.basic.LocalizedMessage original="Entities" locale="zh_CN" localized="实体列表"/>
+
+    <moqui.basic.LocalizedMessage original="Data Views" locale="zh_CN" localized="数据视图"/>
+
+    <moqui.basic.LocalizedMessage original="Speed Test" locale="zh_CN" localized="性能测试"/>
+
+    <!-- End Entity Tools part -->
+
+
+    <!-- Begin REST API: Swagger UI part -->
+
+
+    <!-- End REST API: Swagger UI part -->
 
 </entity-facade-xml>
